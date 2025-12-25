@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E+cYWZY7tLs=",
+  "dgSpecHash": "pZ2jG1wG3mQ=",
   "success": true,
   "projectFilePath": "D:\\prototype_app_secu\\prototype_app_secu.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.1\\microsoft.entityframeworkcore.tools.10.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
